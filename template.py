@@ -26,7 +26,7 @@ list_of_files= {
     "Dockerfile",
     "README.md",
     "setup.py",
-    "research/trials.py",
+    "research/trials.ipynb",
     # "tests/test_project_name.py"
 
 }
